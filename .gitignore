@@ -1,0 +1,15 @@
+# Служебные папки редактора
+.vscode/
+.idea/
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Локальные секреты
+.env
